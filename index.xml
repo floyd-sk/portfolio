@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Projects on Floyd Skakane</title>
+    <link>https://floyd-sk.github.io/portfolio/</link>
+    <description>Recent content in Data Science Projects on Floyd Skakane</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Mar 2022 11:15:58 -0400</lastBuildDate><atom:link href="https://floyd-sk.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DStv Log Table  Downloader</title>
+      <link>https://floyd-sk.github.io/portfolio/post/project-5/</link>
+      <pubDate>Mon, 21 Mar 2022 11:15:58 -0400</pubDate>
+      
+      <guid>https://floyd-sk.github.io/portfolio/post/project-5/</guid>
+      <description>In this project, the intention was to create a simple webscraping app for downloading customizable DStv premiership log table in real time.
+This app was created on Streamlit which is an open-source python library for creating and sharing web apps for data science and machine learning projects (Source: Hackernoon). The required libraries used are base64, pandas and streamlit. The app scrapes log table data from the EuroSport website that are customizable by the league season and number of teams selected.</description>
+    </item>
+    
+    <item>
+      <title>Movie Recommender Engine</title>
+      <link>https://floyd-sk.github.io/portfolio/post/project-4/</link>
+      <pubDate>Fri, 04 Feb 2022 11:14:48 -0400</pubDate>
+      
+      <guid>https://floyd-sk.github.io/portfolio/post/project-4/</guid>
+      <description>Unsupervised Learning Project
+Probably one of the most crucial business functions of any streaming platforms is the ability to make recommendations that each specific user is highly likely to engage with. This tends to increase subscriber base and decrease churn rate.
+This project aims to utilize various modelling techniques to recommend movies to users with high accuracy. Since the data is unstructured i.e. the data does not have any labels, the project is classified as an unsupervised learning problem.</description>
+    </item>
+    
+    <item>
+      <title>Climate Change Tweet Analysis</title>
+      <link>https://floyd-sk.github.io/portfolio/post/project-3/</link>
+      <pubDate>Fri, 10 Dec 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://floyd-sk.github.io/portfolio/post/project-3/</guid>
+      <description>Classification Project
+With &amp;lsquo;climate change&amp;rsquo; being the buzz words of the current era, understanding attitudes the general public has with regards to climate change is of crucial importance and we use tweets regarding climate change to classify random tweets into 1 of 4 categories: news, neutral, pro and anti climate change.
+ Overview of sentiment classes and keywords   In this project we participated as a team of 5 members and my role was to perform data analysis and build and deploy a streamlit app.</description>
+    </item>
+    
+    <item>
+      <title>Language Identification</title>
+      <link>https://floyd-sk.github.io/portfolio/post/project-2/</link>
+      <pubDate>Thu, 02 Dec 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://floyd-sk.github.io/portfolio/post/project-2/</guid>
+      <description>Classification Project
+ South African languages distribution overview   The goal of this project/challenge is to improve the accuracy of classifying random text into 1 of 11 of South African official languages.
+In this project I used natural language processing (NLP) techniques to clean-up text data that is used as an input in training our models and making predictions. The performance of the models used is shown below.
+ Model performance   Once finished, a kaggle submission was made that ranks model performance by the Mean F1-Score.</description>
+    </item>
+    
+    <item>
+      <title>Load Shortfall Predictor</title>
+      <link>https://floyd-sk.github.io/portfolio/post/project-1/</link>
+      <pubDate>Fri, 12 Nov 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://floyd-sk.github.io/portfolio/post/project-1/</guid>
+      <description>Regression Project
+As the world is generally moving greener, the question of moving from traditional fossil fuels to renewable resources in electricity generation is no longer an if but when question.
+In this project we aimed to predict the amount of electricity load shortfall that could be experienced when shifting from fossil fuels to renewable resources for the country of Spain. We were a team of 5 members and I performed overall oversight of the project and mainly ensured successful deployment of the project to AWS EC2.</description>
+    </item>
+    
+    <item>
+      <title>Dashboards in Power BI</title>
+      <link>https://floyd-sk.github.io/portfolio/post/project-6/</link>
+      <pubDate>Fri, 15 Oct 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://floyd-sk.github.io/portfolio/post/project-6/</guid>
+      <description>Although reiterative, the life cycle of a data science project ultimately ends in providing insight. Having to produce interactive platforms that can be widely used by a wide range of users from the least to the most technical is crucial in the data science framework. Below are interactive platforms I created on Power BI:
+I. Eskom Infrastructure, Twitter, Capacity and Efficiency Dashboards
+ Eskom infrastructure dashboard    Eskom capacity and efficiency dashboard    Eskom twitter dashboard   II.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://floyd-sk.github.io/portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://floyd-sk.github.io/portfolio/about/</guid>
+      <description>&amp;ldquo;Torture the data, and it will confess anything&amp;rdquo; - Ronald Coase
+I am an aspiring data scientist with a curious mindset and knack to solve problems.
+Having worked as a Customer Service Agent for Telkom for 18 months, I have managed to develop and harness my communication skills and resolving customer-related issues professionally. I hold a BCom in Economic Science and Insurance and Risk Management from Wits University and a certificate in Data Science from Explore Data Science Academy (NQF: 5).</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://floyd-sk.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://floyd-sk.github.io/portfolio/contact/</guid>
+      <description>Connect with me on these platforms:
+   Platform URL     twitter: https://twitter.com/floyd_ska   linkedin: https://www.linkedin.com/in/floyd-skakane-0179a597   github: https://github.com/floyd-sk   kaggle: https://www.kaggle.com/floydskakane   email: floyd.skakane@gmail.com    </description>
+    </item>
+    
+  </channel>
+</rss>
